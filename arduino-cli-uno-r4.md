@@ -5,6 +5,8 @@ Sun  9 Jul 13:49:13 UTC 2023
 
 ## arduino-cli-uno-r4
 
+  https://github.com/arduino/arduino-cli.git
+
  * udev rules a must for Linux
 
 ```
